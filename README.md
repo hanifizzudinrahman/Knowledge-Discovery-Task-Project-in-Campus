@@ -10,8 +10,12 @@
 3. Clustering & Cluster Analysis (Hepatitis)
 - Kmeans (n_cluster=2)
 4. Automatic Clustering (Elbow Method)
+![image](https://user-images.githubusercontent.com/47806867/135236416-71433a61-fab5-404b-8760-c12eea95d6b1.png)
+
 5. Hierarchical K-Means
 - K-Means Clustering + Hierarchical Clustering
+![image](https://user-images.githubusercontent.com/47806867/135236520-94b726c1-6025-4455-a403-ceb949e49fe9.png)
+
 6. Text Mining (News Data)
 - Keywords (Pre-processing)
 - Keywords (Filtering Sastrawi, Stemming Sastrawi, Tokenizing)
